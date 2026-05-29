@@ -33,18 +33,10 @@ I am a passionate **junior Flutter Developer** with 1+ years of experience archi
 * **Key Implementations:** WebSocket polling for live score updates and optimized list rendering for 1,000+ concurrent matches using lazy loading (60fps scrolling).
 * **Tech Stack:** Flutter, BLoC, WebSockets, Hive DB.
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragaie-ahmed&show_icons=true&theme=tokyonight&count_private=true" alt="Ragaie's GitHub Stats" />
-</p>
-
----
 
 ### 📫 Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/%D8%B1%D8%AC%D8%A7%D8%A6%D9%89-%D8%A7%D8%AD%D9%85%D8%AF-a4204822a)
+* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/ragaie-ahmed-a4204822a/)
 * 📧 **Email:** ragaaiahmed18@gmail.com
 * 📍 **Location:** Mansoura, Egypt
