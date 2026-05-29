@@ -45,6 +45,6 @@ I am a passionate **junior Flutter Developer** with 1+ years of experience archi
 
 ### 📫 Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/%D8%B1%D8%AC%D8%A7%D8%A6%D9%89-%D8%A7%D8%AD%D9%85%D8%AF-a4204822a)
 * 📧 **Email:** ragaaiahmed18@gmail.com
 * 📍 **Location:** Mansoura, Egypt
